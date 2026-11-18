@@ -28,4 +28,4 @@
 
 ## 演示
 
-演示视频在仓库的 Releases 页面提供下载。
+[观看 B 站实物演示](https://www.bilibili.com/video/BV1ZNsU68EPK/)
